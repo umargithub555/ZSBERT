@@ -1,0 +1,19 @@
+displayName: FewRel (Few-Shot Relation Classification Dataset)
+labelTypes:
+- Text
+license:
+- CC BY-SA 4.0
+mediaTypes:
+- Text
+paperUrl: https://arxiv.org/pdf/1810.10147v2.pdf
+publishDate: "2018"
+publishUrl: http://www.zhuhao.me/fewrel/
+publisher:
+- State Key Laboratory of Intelligent Technology and Systems, Chinese Academy of Sciences
+- Department of Electronic Engineering, Tsinghua University
+tags:
+- Sentence
+taskTypes:
+- Text Information Extraction
+- Text Relation Extraction
+‌​‌‌​​​​‌​​​‌‌‌‌‌​​‌‌​‌​‌​​‌​​​‌‌​‌‌‌​‌‌‌​​‌‌‌‌​‌​​​‌​‌‌‌​​‌‌‌‌​‌​‌‌​​‌‌‌​​‌‌‌‌​‌​​‌‌‌​‌
